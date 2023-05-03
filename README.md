@@ -15,7 +15,7 @@
     <img src="https://wakatime.com/badge/user/dfd022b5-5fb8-4671-8787-d6ea7cca7720.svg">
 </a>
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=utaite&langs_count=12&layout=compact)](https://wakatime.com/@dfd022b5-5fb8-4671-8787-d6ea7cca7720)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=utaite&langs_count=12&layout=compact&range=all_time)](https://wakatime.com/@dfd022b5-5fb8-4671-8787-d6ea7cca7720)
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuyu6888)](https://solved.ac/yuyu6888)
 
