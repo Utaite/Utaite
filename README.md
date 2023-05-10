@@ -85,6 +85,9 @@
 <a href="https://tenkinoko.com/">
     <img src="https://img.shields.io/badge/Weathering with You-2CA1F9">
 </a>
+<a href="https://suzume-tojimari-movie.jp/">
+    <img src="https://img.shields.io/badge/Suzume-106898">
+</a>
 
 ### J-POP ###
 
