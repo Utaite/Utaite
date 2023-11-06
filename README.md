@@ -29,17 +29,20 @@
 <a href="https://kotlinlang.org">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 </a>
+<a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
+</a>
 <a href="https://www.typescriptlang.org">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 </a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
 </a>
-<a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-</a>
 <a href="https://java.com">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+</a>
+<a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 </a>
 <a href="https://php.net">
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
@@ -55,12 +58,6 @@
 </a>
 <a href="https://reactivex.io">
     <img src="https://img.shields.io/badge/ReactiveX-B7178C?logo=ReactiveX&logoColor=white">
-</a>
-<a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-</a>
-<a href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
 </a>
 <a href="https://aws.amazon.com">
     <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
@@ -205,98 +202,3 @@
 <a href="https://youtube.com/channel/UCT0GO54cT_RxKN-Ou2PwTsw">
     <img src="https://img.shields.io/badge/Zakuro-A4005F">
 </a>
-
-## 🎵 Now Playing ##
-
-<a href="https://now-playing-profile-psi.vercel.app/now-playing?open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/now-playing">
-</a>
-
-### Recently played ###
-
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=0&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=0">
-</a>
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=1&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=1">
-</a>
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=2&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=2">
-</a>
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=3&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=3">
-</a>
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=4&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=4">
-</a>
-<a href="https://now-playing-profile-psi.vercel.app/recently-played?i=5&open=true">
-    <img src="https://now-playing-profile-psi.vercel.app/recently-played?i=5">
-</a>
-
-### Top tracks ###
-
-<details>
-  <summary>all</summary>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=0&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=0">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=1&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=1">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=2&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=2">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=3&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=3">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=4&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=4">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=5&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=long_term&i=5">
-    </a>
-</details>
-
-<details>
-  <summary>last 6 months</summary>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=0&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=0">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=1&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=1">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=2&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=2">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=3&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=3">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=4&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=4">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=5&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=medium_term&i=5">
-    </a>
-</details>
-
-<details>
-  <summary>last 4 weeks</summary>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=0&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=0">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=1&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=1">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=2&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=2">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=3&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=3">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=4&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=4">
-    </a>
-    <a href="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=5&open=true">
-        <img src="https://now-playing-profile-psi.vercel.app/top-tracks?time_range=short_term&i=5">
-    </a>
-</details>
